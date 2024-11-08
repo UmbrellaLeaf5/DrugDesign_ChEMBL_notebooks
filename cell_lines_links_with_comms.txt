@@ -1,0 +1,72 @@
+Cell line: CHEMBL4295386
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL4295386%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL4295386%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL4295386%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL4295386%20-%20GI50
+------------------------------------------------------------
+Cell line: CHEMBL3307781
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307781%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307781%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307781%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307781%20-%20GI50
+------------------------------------------------------------
+Cell line: CHEMBL4295453
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL4295453%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL4295453%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL4295453%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL4295453%20-%20GI50
+(8 элементов и все в непонятных единицах измерения)
+------------------------------------------------------------
+Cell line: CHEMBL4295483
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL4295483%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL4295483%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL4295483%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL4295483%20-%20GI50
+------------------------------------------------------------
+Cell line: CHEMBL3308509
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3308509%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3308509%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3308509%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3308509%20-%20GI50
+------------------------------------------------------------
+Cell line: CHEMBL3706569
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3706569%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3706569%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3706569%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3706569%20-%20GI50
+------------------------------------------------------------
+Cell line: CHEMBL3307715
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307715%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307715%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307715%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307715%20-%20GI50
+------------------------------------------------------------
+Cell line: CHEMBL3307525
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307525%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307525%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307525%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307525%20-%20GI50
+(2 элемента)
+------------------------------------------------------------
+Cell line: CHEMBL3307970
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307970%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307970%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307970%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307970%20-%20GI50
+(1 элемент, причем ">")
+------------------------------------------------------------
+Cell line: CHEMBL4295409
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL4295409%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL4295409%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL4295409%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL4295409%20-%20GI50
+------------------------------------------------------------
+Cell line: CHEMBL3307501
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307501%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307501%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307501%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307501%20-%20GI50
+------------------------------------------------------------
+Cell line: CHEMBL3307364
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307364%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307364%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307364%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307364%20-%20GI50
+------------------------------------------------------------
+Cell line: CHEMBL3308499
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3308499%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3308499%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3308499%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3308499%20-%20GI50
+------------------------------------------------------------
+Cell line: CHEMBL3307481
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307481%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307481%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307481%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307481%20-%20GI50
+------------------------------------------------------------
+Cell line: CHEMBL3308021
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3308021%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3308021%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3308021%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3308021%20-%20GI50
+------------------------------------------------------------
+Cell line: CHEMBL3307755
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307755%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307755%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307755%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307755%20-%20GI50
+(1 элемент)
+------------------------------------------------------------
+Cell line: CHEMBL3307614
+IC50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307614%20AND%20standard_type%3A%22IC50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307614%20-%20IC50
+GI50: https://www.ebi.ac.uk/chembl/web_components/explore/activities/QUERYSTRING:_metadata.assay_data.cell_chembl_id%3ACHEMBL3307614%20AND%20standard_type%3A%22GI50%22?description=Bioactivity%20data%20for%20Cell%20Line%20CHEMBL3307614%20-%20GI50
+------------------------------------------------------------
